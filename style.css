@@ -1,0 +1,20 @@
+body {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+#btn {
+    padding: 15px;
+    border-radius: 15px;
+    font-weight: bold;
+    background-color: grey;
+    border: 2px solid grey;
+}
+
+#btn:hover {
+    padding: 16px;
+
+}
